@@ -1,0 +1,15 @@
+@charset "UTF-8";
+h1 {
+    text-align: center;
+}
+h2 {
+    margin: 0px;
+    padding: 20px;
+}
+.image {
+    position: relative;
+    text-align: center
+}
+.text {
+    text-align: center;
+}
