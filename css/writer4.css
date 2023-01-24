@@ -3,9 +3,6 @@ html{
     font-size: 100%;
 }
 
-.flex{
-    display: flex;
-}
 
 .flex div{
     border: 1px;
