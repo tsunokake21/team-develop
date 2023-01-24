@@ -1,0 +1,48 @@
+@charset "UTF-8";
+html{
+    font-size: 100%;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex div{
+    border: 1px;
+}
+
+.right {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.icon{
+    width: 50;
+    margin: 10px;
+    margin-left: 400px;
+}
+
+.left2{
+    width: 50%;
+}
+
+.right2{
+    width: 50%;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: 200px;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+h2{
+    font-size: 48px;
+}
+
+.body{
+    font-size: 30px;
+}
+
