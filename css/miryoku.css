@@ -1,0 +1,40 @@
+@charset "UTF-8";
+html{
+    font-size: 100%;
+}
+.flex{
+    display: flex;
+}
+.flex div{
+    border: 1px;
+}
+.right {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left{
+    width: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    margin: 0px;
+    padding: 20px;
+}
+.image {
+    position: relative;
+    text-align: center;
+    height: auto;
+    width: auto;
+    margin: 50px;
+
+}
+.text {
+    text-align: center;
+    margin: 50px;
+}
